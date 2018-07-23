@@ -1,4 +1,42 @@
 
+Close
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+  # Your First IDE Lab
+  Now that you've learned about the Learn IDE, it's 
+  time to solve your first
+  lab. Watch the video below to see how to solve this 
+  lab.
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/T7PVTSkleAk" 
+  frameborder="0"
+  allow="autoplay; encrypted-media" 
+  allowfullscreen></iframe><p><a
+  href="https://youtu.be/T7PVTSkleAk">First IDE 
+  Lab</a></p>
+  <h1>Instructions</h1>
+  <br>
+  Open this lab in the Learn IDE, edit the file 
+  <code>edit-me.txt</code> in this
+  lab using the Learn IDE, run the tests with 
+  <code>learn</code> and submit the
 
   # Your First IDE Lab
 
